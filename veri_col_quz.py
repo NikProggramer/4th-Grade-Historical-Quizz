@@ -19,7 +19,7 @@ st.title("4th Grade Historical Quizz")
 
 questions = [
     {
-        "image": "https://github.com/NikProggramer/4th-Grade-Historical-Quizz/tree/main/images\image_1.png",
+        "image": "https://github.com/NikProggramer/4th-Grade-Historical-Quizz/tree/main/images/image_1.png",
         "question": "What was the biggest country in Europe in the 1950's?",
         "options": ["East Germany", "Romania", "Vatican", "USSR"],
         "answer": "USSR"
